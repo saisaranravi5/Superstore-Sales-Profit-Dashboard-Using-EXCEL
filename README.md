@@ -1,11 +1,14 @@
 📊 Superstore Sales & Profit Dashboard
-🔹 Project Overview
+
+
+**🔹 Project Overview
+**
 
 This project uses the Sample Superstore Sales dataset (9,994 rows, 21 columns) to design an interactive Excel dashboard that provides insights into sales, profit, discounts, customers, products, and regions.
 
 The dashboard simulates how a retail merchandising team (like Dollar General, Walmart, or Target) might analyze performance and promotions.
 
-🔹 Objectives
+**🔹 Objectives**
 
 Clean and prepare raw data for analysis.
 
