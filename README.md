@@ -141,11 +141,15 @@ Assigned to button: Set Default View.
 
 🔹 Skills Demonstrated
 
--Excel Data Cleaning (TRIM, PROPER, XLOOKUP, IF, TEXT).
--PivotTables & PivotCharts.
--Interactive Dashboard Design (slicers, timeline, KPIs).
--Conditional Formatting.
--Macros & Automation (recorded, button-driven).
+Excel Data Cleaning (TRIM, PROPER, XLOOKUP, IF, TEXT).
+
+PivotTables & PivotCharts.
+
+Interactive Dashboard Design (slicers, timeline, KPIs).
+
+Conditional Formatting.
+
+Macros & Automation (recorded, button-driven).
 
 Visualization & Storytelling.
 
